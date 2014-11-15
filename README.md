@@ -1,4 +1,5 @@
-RockPaperScissors
+Rock Paper Scissors
 =================
 
-Rock Paper Scissors Game
+A Simple Game of Rock Paper Scissors
+Install Python 3.4 to Run
